@@ -7,3 +7,4 @@ In this project I scraped data from three different websites:
 - historical average mortgage lock rates
 - historical inflation data.
 
+![Mortgage Vs Inflation](https://github.com/Prmurray/compare_rates/blob/main/i_v_m.png?raw=true)
