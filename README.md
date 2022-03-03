@@ -8,5 +8,6 @@ In this project I scraped data from three different websites:
 - historical inflation data.
 
 ![Mortgage Vs Inflation](https://github.com/Prmurray/compare_rates/blob/main/i_v_m.png?raw=true)
-![Mortgage Vs Fed](https://github.com/Prmurray/compare_rates/blob/main/Mortgage_v_Reserve_rates.png?raw=true)
-![Fed Vs Inflation](https://github.com/Prmurray/compare_rates/blob/main/Reserve_v_Inflation.png?raw=true)
+![Mortgage Vs Fed](https://github.com/Prmurray/compare_rates/blob/main/Mortgage%20v%20Reserve_rates.png?raw=true)
+![Fed Vs Inflation](https://github.com/Prmurray/compare_rates/blob/main/Reserve%20v%20Inflation.png?raw=true)
+
